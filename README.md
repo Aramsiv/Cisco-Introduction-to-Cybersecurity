@@ -110,6 +110,9 @@ eavesdropping: altri possano intercettare i dati
 - utilizzare tunnel e servizi VPN crittografati
 - gli hacker possono eseguire l'exploit della funzionalità Bluetooth per intercettare le trasmissioni su alcuni dispositivi, stabilire controlli degli accessi in remoto, distribuire malware e scaricare le batterie. Per evitare questi problemi, disattivare la funzionalità Bluetooth quando non è in uso.
 
+
+
+
 Utilizzare password univoche per ogni account online
 
 Suggerimenti per la scelta di una buona password:
@@ -123,6 +126,8 @@ Suggerimenti per la scelta di una buona password:
 •	Se possibile, usa caratteri speciali come ! @ # $ % ^ & * ( )
 
 •	Utilizzare una password composta da almeno dieci caratteri
+
+
 
 
 Utilizzare passphrase anziché password
