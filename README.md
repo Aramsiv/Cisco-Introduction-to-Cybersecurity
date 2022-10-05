@@ -34,16 +34,26 @@ Tipologie di malware
 
 Sintomi del malware
 •	Aumento nell'utilizzo di CPU.
+
 •	Riduzione nella velocità del computer.
+
 •	Il computer spesso si blocca o si arresta in modo anomalo.
+
 •	Riduzione nella velocità di navigazione nel Web.
+
 •	Problemi inspiegabili con le connessioni di rete.
+
 •	File modificati.
+
 •	File eliminati.
 •	Presenza di file, programmi o icone desktop sconosciuti.
+
 •	Processi sconosciuti in esecuzione.
+
 •	I programmi si disattivano o riconfigurano autonomamente.
+
 •	Invio di e-mail senza che l'utente ne sia a conoscenza o abbia acconsentito.
+
 
 Social engineering
 - Pretexting
