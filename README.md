@@ -182,16 +182,26 @@ Proteggere l'azienda
 - firewall, appliance di sicurezza e software attualmente utilizzati, best-practice
 - botnet, tattiche kill chain, sicurezza basata sui comportamenti, uso di NetFlow per il monitoraggio delle reti.
 - team CSIRT, manuale della sicurezza, strumenti impiegati dai professionisti della cybersecurity per rilevare e prevenire gli attacchi alle reti.
+- 
 
 Tipi di firewall
+
 •	Firewall a livello di rete – il filtro opera in base agli indirizzi IP d'origine e di destinazione
+
 •	Firewall a livello di trasporto – il filtro opera in base alle porte dati d'origine e di destinazione nonché sugli stati delle connessioni
+
 •	Firewall a livello applicativo – il filtro opera in base ad applicazioni, programmi e servizi
+
 •	Firewall per il controllo di applicazioni basato sul contesto – il filtro opera in base a utente, dispositivo, ruolo, applicazione e profilo della minaccia
+
 •	Server proxy – esegue il filtraggio delle richieste di contenuti Web quali URL, dominio, mezzi di comunicazione ecc
+
 •	Server proxy reverse – posizionati davanti ai server Web, i server proxy reverse proteggono, nascondono, eseguono l'offload e distribuiscono gli accessi ai server Web
+
 •	Firewall NAT (Network Address Translation) – nasconde o maschera gli indirizzi privati degli host di rete
+
 •	Firewall basato su host – esegue il filtraggio delle chiamate a porte e servizi di sistema nell'ambito del sistema operativo di un determinato computer
+
 
 Scansione delle porte
 - strumento per la scansione delle porte (Nmap)
@@ -216,7 +226,7 @@ Malware/Antivirus - strumento evoluto di protezione dal malware presente nei rou
 Altri dispositivi di sicurezza - appliance di sicurezza e-mail e Web, dai dispositivi per la decrittografia, server per il controllo degli accessi client 
 
 Rilevamento degli attacchi in tempo reale
-- Attacco Zero-Day:
+-- Attacco Zero-Day:
 Il software non è perfetto. Quando un hacker sfrutta un errore contenuto in un software prima che il creatore di quest'ultimo possa porvi rimedio, si è in presenza di un attacco zero-day. 
 
 •	Scansione in tempo reale dalla periferia all'endpoint - il rilevamento degli attacchi in tempo reale richiede l'esecuzione di scansioni per mezzo di firewall e di dispositivi di rete IDS/IPS. Inoltre, è necessario avvalersi anche di strumenti di rilevamento di malware client/server di nuova generazione dotati di collegamenti con centri globali per lo studio delle minacce. 
@@ -229,19 +239,34 @@ Proteggersi dal malware
 - Un Threat Grid analizza milioni di file e li associa a centinaia di milioni di altri artefatti malware analizzati, fornendo una visione globale degli attacchi, delle campagne e della distribuzione del malware. E' un software client/server implementato negli endpoint host, come i server standalone o in altri dispositivi di sicurezza di rete. 
 
 Best-practice per la sicurezza
+
 •	Eseguire la valutazione dei rischi – conoscere il valore di ciò che si sta proteggendo aiuta a giustificare le spese in materia di sicurezza.
+
 •	Creare una policy di sicurezza – creare una policy che definisca chiaramente regole aziendali, mansioni e aspettative.
+
 •	Misure per la sicurezza fisica – limitare l'accesso agli armadi di rete, ai luoghi dove si trovano i server nonché ai dispositivi antincendio.
-•	Misure di sicurezza nei confronti delle risorse umane – è necessario condurre ricerche adeguate sul dipendenti e prevedere un controllo del background di ciascuno..
+
+•	Misure di sicurezza nei confronti delle risorse umane – è necessario condurre ricerche adeguate sul dipendenti e prevedere un controllo del background di ciascuno.
+
 •	Eseguire e testare i backup – eseguire backup periodici e verificare che essi consentano il recupero dei dati.
+
 •	Mantenere patch e aggiornamenti per la sicurezza – aggiornare periodicamente sistemi operativi e programmi a bordo di server, client e dispositivo di rete.
+
 •	Attuare il controllo degli accessi – configurare ruoli e livelli di privilegi diversificati in base agli utenti e utilizzare sistemi di autenticazione forte.
+
 •	Verificare periodicamente la capacità di reazione agli incidenti – costituire un team per la reazione agli incidenti ed eseguire test sulla risposta in caso di emergenza nel caso di diversi scenari.
+
 •	Implementare uno strumento per il monitoraggio, l'analisi e la gestione della rete - scegliere una soluzione per il monitoraggio di sicurezza che si integri con altre tecnologie.
+
 •	Implementare dispositivi per la sicurezza di rete – usare router, firewall e altre appliance di sicurezza di nuova generazione.
+
 •	Implementare una soluzione completa per la sicurezza degli endpoint – usare software antimalware e antivirus a livello aziendale.
+
 •	Educare gli utenti – educare utenti e dipendenti ad adottare procedure di sicurezza.
+
 •	Crittografare i dati – crittografare tutti i dati aziendali sensibili, comprese le e-mail.
+
+
 
 Linee guida
 - NIST (National Institute of Standards and Technology) 
