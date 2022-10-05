@@ -33,6 +33,7 @@ Tipologie di malware
 - Man-In-The-Mobile (MitMo)
 
 Sintomi del malware
+
 •	Aumento nell'utilizzo di CPU.
 
 •	Riduzione nella velocità del computer.
