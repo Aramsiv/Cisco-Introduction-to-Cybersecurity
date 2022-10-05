@@ -204,11 +204,18 @@ Tipi di firewall
 
 
 Scansione delle porte
+
 - strumento per la scansione delle porte (Nmap)
-- La scansione Nmap indicherà tutti i servizi in esecuzione (ad esempio i servizi Web, i servizi e-mail ecc.) e i numeri delle porte. In generale, la scansione di una porta restituisce uno dei tre risultati seguenti:
+
+- La scansione Nmap indicherà tutti i servizi in esecuzione (ad esempio i servizi Web, i servizi e-mail ecc.) e i numeri delle porte. 
+In generale, la scansione di una porta restituisce uno dei tre risultati seguenti:
+
 •	Aperta o Accettata – L'host ha risposto indicando che un servizio è in ascolto sulla porta.
+
 •	Chiusa, Rifiutata o Non in ascolto – L'host ha risposto indicando che i tentativi di connessione alla porta verranno rifiutati.
+
 •	Filtrata, Interrotta o Bloccata – Non è stata ricevuta alcuna risposta dall'host.
+
 
 Significa condurre una scansione delle porte Nmap nei confronti del tuo firewall o dell'indirizzo IP pubblico del tuo router. 
 - Nmap Online Port Scanner 
@@ -226,7 +233,9 @@ Malware/Antivirus - strumento evoluto di protezione dal malware presente nei rou
 Altri dispositivi di sicurezza - appliance di sicurezza e-mail e Web, dai dispositivi per la decrittografia, server per il controllo degli accessi client 
 
 Rilevamento degli attacchi in tempo reale
+
 -- Attacco Zero-Day:
+
 Il software non è perfetto. Quando un hacker sfrutta un errore contenuto in un software prima che il creatore di quest'ultimo possa porvi rimedio, si è in presenza di un attacco zero-day. 
 
 •	Scansione in tempo reale dalla periferia all'endpoint - il rilevamento degli attacchi in tempo reale richiede l'esecuzione di scansioni per mezzo di firewall e di dispositivi di rete IDS/IPS. Inoltre, è necessario avvalersi anche di strumenti di rilevamento di malware client/server di nuova generazione dotati di collegamenti con centri globali per lo studio delle minacce. 
@@ -321,13 +330,20 @@ il manuale per la sicurezza deve adempiere ai seguenti compiti:
 
 Strumenti per la prevenzione e il rilevamento degli incidenti
 
+
 •	SIEM – i sistemi SIEM (Security Information and Event Management, gestione di eventi e informazioni sulla sicurezza) sono costituiti da software che raccoglie e analizza gli allarmi relativi alla sicurezza, i log e altri dati cronologici e in tempo reale provenienti dai dispositivi di sicurezza presenti nella rete.
+
+
 •	DLP – i sistemi DLP (Data Loss Prevention) sono elementi software o hardware progettati per impedire il furto o la fuoriuscita di dati sensibili dalle reti. I sistemi DLP possono concentrarsi sull'autorizzazione all'accesso ai file, lo scambio o la copia di dati, il monitoraggio delle attività degli utenti e molto altro. I sistemi DLP sono progettati per monitorare e proteggere dati che presentino tre stati diversi: dati in uso, dati in movimento e dati a riposo. I dati in uso sono principalmente riferiti ai client; i dati in movimento sono quelli che si muovono attraverso la rete e i dati a riposo sono riferiti all'archiviazione dei dati. 
+
+
 •	ISE e TrustSec – gli strumenti Cisco ISE (Identity Services Engine) e TrustSec intervengono sull'accesso alle risorse di rete creando policy che segmentano l'accesso stesso in categorie (ospiti, utenti mobili, dipendenti) senza aggiungere complessità. La classificazione del traffico si basa sull'identità degli utenti o dei dispositivi. 
 
 IDS e IPS
 (IDS, Intrusion Detection System)
 Se viene rilevata una corrispondenza, l'IDS registra il rilevamento e crea un avviso destinato all'amministratore di rete ma non impedisce il verificarsi degli attacchi. 
+
+
 (IPS, Intrusion Prevention System) 
 Può bloccare o rifiutare traffico in base a regole positive o in caso di corrispondenza della firma. 
 Analisi in tempo reale di traffico e porte, registrazioni, ricerca e analisi della corrispondenza dei contenuti; può rilevare tentativi di verifica, attacchi e operazioni di scansione delle porte. si integra all'interno di strumenti di terze parti per la creazione di report e analisi di prestazioni e log.
