@@ -126,11 +126,17 @@ Suggerimenti per la scelta di una buona password:
 
 
 Utilizzare passphrase anziché password
+
 Suggerimenti per la scelta di una buona passphrase: 
+
 •	Scegliere un'affermazione significativa
+
 •	Aggiungere caratteri speciali come ! @ # $ % ^ & * ( )
+
 •	Maggiore è la lunghezza e migliore è la passphrase
+
 •	Evitare frasi comuni o famose, ad esempio testi di una canzone famosa
+
 
 Crittografare i dati
 - Windows Encrypting File System (EFS) 
