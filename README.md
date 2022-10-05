@@ -171,14 +171,22 @@ Non condividere troppe informazioni sui social media
 - Utilizzare uno strumento per la gestione delle password per gestirle.
 
 Privacy di e-mail e browser Web
+
 Chi ha accesso fisico al computer o al router, può vedere quali siti Web sono stati visitati tramite la cronologia del browser Web, la cache e anche i file di log.
+
 Usare modalità di esplorazione in privato:
+
 •	Microsoft Internet Explorer: InPrivate
+
 •	Google Chrome: Incognito
+
 •	Mozilla Firefox: scheda Private / finestra Private
+
 •	Safari: Private: Private browsing
 
+
 Proteggere l'azienda
+
 - firewall, appliance di sicurezza e software attualmente utilizzati, best-practice
 - botnet, tattiche kill chain, sicurezza basata sui comportamenti, uso di NetFlow per il monitoraggio delle reti.
 - team CSIRT, manuale della sicurezza, strumenti impiegati dai professionisti della cybersecurity per rilevare e prevenire gli attacchi alle reti.
@@ -289,26 +297,43 @@ Linee guida
 - CSRC (Computer Security Resource Center)
 
 Botnet
+
 I botnet possono essere costituiti da decine, o anche centinaia, di migliaia di bot. Questi bot possono essere attivati per distribuire malware, lanciare attacchi DDoS, diffondere e-mail di spam o eseguire attacchi brute-force per la violazione delle password. I botnet sono generalmente controllati per mezzo di un server di comando e controllo.
 
 La kill chain 
+
 cybersecurity, la kill chain descrive le fasi di un attacco ai sistemi informatici. 
+
 Fase 1. Ricognizione - gli hacker raccolgono informazioni sull'obiettivo.
+
 Fase 2. Adescamento - gli hacker creano un payload dannoso di tipo exploit da inviare all'obiettivo.
+
 Fase 3. Dirottamento - gli hacker inviano il payload dannoso di tipo exploit all'obiettivo per mezzo di e-mail o altri metodi.
+
 Fase 4. Exploit - l'exploit viene eseguito.
+
 Fase 5. Installazione - il malware e le backdoor vengono installate all'interno dell'obiettivo.
+
 Fase 6. Comando e controllo - il controllo remoto dell'obiettivo viene assunto per mezzo di un canale o di un server di comando e controllo.
+
 Fase 7. Azione - gli hacker eseguono azioni dannose quali il furto di informazioni oppure sferrano, dall'interno della rete, ulteriori attacchi nei confronti di altri dispositivi attuando nuovamente le fasi della kill chain. 
 
+
 • Quali sono i segnali di un attacco in corso in ciascuna fase della kill chain? 
+
 • Quali strumenti di sicurezza sono necessari per rilevare i segnali di attacco in ciascuna delle fasi?
+
 • Vi sono lacune nella capacità dell'azienda di rilevare un attacco?
 
+
 Sicurezza basata sui comportamenti
+
 - Honeypot - strumenti di rilevamento basati sui comportamenti che attirano gli hacker 
 Quando gli hacker sono all'interno dell'honeypot, gli amministratori di rete possono acquisire, registrare e analizzare il loro comportamento. 
-- Cyber Threat Defense - si tratta di un'architettura di sicurezza che impiega il rilevamento basato sui comportamenti e gli indicatori per fornire maggiore visibilità, contesto e controllo. In caso di attacco, l'obiettivo è conoscere "chi", "cosa", "dove", "quando" e "in che modo"-
+
+- Cyber Threat Defense - si tratta di un'architettura di sicurezza che impiega il rilevamento basato sui comportamenti e gli indicatori per fornire maggiore visibilità, contesto e controllo. In caso di attacco, l'obiettivo è conoscere "chi", "cosa", "dove", "quando" e "in che modo"
+
+
 
 NetFlow
 - raccoglie informazioni sul flusso dei dati all'interno delle reti
