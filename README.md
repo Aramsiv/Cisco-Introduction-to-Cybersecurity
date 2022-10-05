@@ -182,7 +182,7 @@ Proteggere l'azienda
 - firewall, appliance di sicurezza e software attualmente utilizzati, best-practice
 - botnet, tattiche kill chain, sicurezza basata sui comportamenti, uso di NetFlow per il monitoraggio delle reti.
 - team CSIRT, manuale della sicurezza, strumenti impiegati dai professionisti della cybersecurity per rilevare e prevenire gli attacchi alle reti.
-- 
+
 
 Tipi di firewall
 
@@ -221,15 +221,22 @@ Significa condurre una scansione delle porte Nmap nei confronti del tuo firewall
 - Nmap Online Port Scanner 
 
 Appliance di sicurezza
+
 Le appliance di sicurezza possono essere HW costituite da dispositivi autonomi, come i router e i firewall, schede installate all'interno di dispositivi di rete oppure da moduli dotati di processore e memoria cache propri. 
 Le appliance di sicurezza possono anche essere SW costituite da strumenti software eseguiti all'interno di dispositivi di rete. 
 
 Categorie generali:
+
 Router - instradamento e numerose funzionalità firewall quali filtraggio del traffico, capacità di eseguire un sistema di prevenzione delle intrusioni (IPS) nonché di funzionalità VPN per un tunneling crittografato sicuro. 
+
 Firewall - Next Generation Firewall offrono tutte le funzionalità di un router nonché quelle di gestione e analisi evoluta della rete. 
+
 IPS - i dispositivi IPS sono dedicati alla prevenzione delle intrusioni. 
+
 VPN - tecnologie server e client VPN (Virtual Private Network) per il tunneling crittografato sicuro.
+
 Malware/Antivirus - strumento evoluto di protezione dal malware presente nei router, firewall, dispositivi IPS e appliance di sicurezza e-mail e Web può anche essere installato, come software, nei computer host.
+
 Altri dispositivi di sicurezza - appliance di sicurezza e-mail e Web, dai dispositivi per la decrittografia, server per il controllo degli accessi client 
 
 Rilevamento degli attacchi in tempo reale
