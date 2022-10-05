@@ -8,6 +8,9 @@ They understand vulnerabilities and threat detection and defense.
 
 They also have insight into opportunities available with pursuing cybersecurity certifications.
 
+https://www.credly.com/badges/8cd180e6-a5f1-4534-afbd-865882525b34
+
+
 Contents:
 
 Vulnerabilità hardware
