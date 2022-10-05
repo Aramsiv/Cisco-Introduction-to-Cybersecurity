@@ -47,6 +47,7 @@ Sintomi del malware
 •	File modificati.
 
 •	File eliminati.
+
 •	Presenza di file, programmi o icone desktop sconosciuti.
 
 •	Processi sconosciuti in esecuzione.
