@@ -341,23 +341,37 @@ raccoglie, archivia e analizza dati in ingresso, in uscita e in transito nella r
 è in grado di determinare comportamenti di riferimento 
 
 CSIRT
+
 Molte grandi aziende dispongono di un gruppo CSIRT (Computer Security Incident Response Team) preposto alla ricezione, analisi e reazione agli incidenti in materia di sicurezza informatica
 Per prevenire gli incidenti di sicurezza, il CSIRT Cisco effettua una valutazione proattiva delle minacce, pianifica la riduzione del rischio, analizza le tendenze mostrate dalle violazioni ed esamina l'architettura di sicurezza
 
 FIRST (Forum of Incident Response and Security Teams)
+
 NSIE (National Safety Information Exchange)
+
 DSIE (Defense Security Information Exchange)
+
 DNS-OARC (Operations Analysis and Research Center)
 
+
 Manuale della sicurezza
+
 il manuale per la sicurezza deve adempiere ai seguenti compiti:
+
 •	Rilevare i computer infettati da malware.
+
 •	Rilevare attività di rete sospette.
+
 •	Rilevare tentativi di autenticazione irregolari.
+
 •	Descrivere e illustrare il traffico in ingresso e in uscita.
+
 •	Fornire informazioni di riepilogo su tendenze, statistiche e conteggi.
+
 •	Garantire modalità di accesso rapide e fruibili a statistiche e metriche.
+
 •	Correlare gli eventi per tutte le origini dati interessate.
+
 
 
 Strumenti per la prevenzione e il rilevamento degli incidenti
