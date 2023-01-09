@@ -1,4 +1,7 @@
 # Cisco-Introduction-to-Cybersecurity
+
+https://www.credly.com/users/lorena-vismara/badges
+
 Course
 
 Cisco verifies the earner of this badge successfully completed the Introduction to Cybersecurity course. 
